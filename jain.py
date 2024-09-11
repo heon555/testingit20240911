@@ -10,3 +10,5 @@ if start == "moon" :
         age += 1
 else :
     print(...)
+
+print("대화가 끝났습니다.")
